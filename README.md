@@ -29,13 +29,13 @@ Teste Técnico – Análise de Testes e Redação MODALGR
 - Validar mensagem de erro no cadastro
 - Validar mensagem de cadastro com sucesso
 
-## CDesafio 2
+## Desafio 2
 
 # Cálculo de Multa para Livro Atrasado
 
 Este repositório contém um exemplo simples de como calcular a multa de um livro atrasado com base no valor da multa por dia e no número de dias de atraso.
 
-## Como Executar o Código
+## Etapas necessarias
 
 Siga os passos abaixo para rodar o código no seu ambiente local:
 
@@ -51,3 +51,33 @@ Clone este repositório para o seu computador. Você pode fazer isso com o coman
 
 
 git clone https://github.com/seu-usuario/repositorio.git
+
+```
+
+### Passo 3: Entre na pasta 'MODAL' pelo terminal
+
+Abra o terminal no diretório onde está o arquivo
+Execute o código com o seguinte comando:
+
+```bash
+
+node Multa.js
+
+```
+
+Para os outros desafios apenas mude o nome dos arquivos
+
+## Desafio 3 - frase
+
+```bash
+
+node Frase.js
+
+```
+## Desafio 4 - Vetor
+
+```bash
+
+node vetor.js
+
+```
