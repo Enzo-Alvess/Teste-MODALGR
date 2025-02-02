@@ -50,11 +50,11 @@ Clone este repositório para o seu computador. Você pode fazer isso com o coman
 ```bash
 
 
-git clone https://github.com/Enzo-Alvess/Teste-T-cnico-MODAL.git
+git clone https://github.com/Enzo-Alvess/Teste-MODALGR.git
 
 ```
 
-### Passo 3: Entre na pasta 'MODAL' pelo terminal
+### Passo 3: Entre na pasta 'Teste-MODALGR' pelo terminal
 
 Abra o terminal no diretório onde está o arquivo
 Execute o código com o seguinte comando:
