@@ -2,6 +2,9 @@
 Teste Técnico – Análise de Testes e Redação MODALGR
 Começando pelo desafio 1
 
+![{FA4AA219-20A0-4EE9-A082-99FF1872F6D1}](https://github.com/user-attachments/assets/eb522d83-d840-49ef-adf3-2b0086dd83e3)
+
+
 a) Descreva o número mínimo de testes necessários para serem realizados nessa
 tela, na função cadastro.
 R:
@@ -23,3 +26,4 @@ Validação de senha vazio
 Confirmação de senha não correspondente
 Validar mensagem de erro no cadastro
 Validar mensagem de cadastro com sucesso
+
