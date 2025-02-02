@@ -50,7 +50,7 @@ Clone este repositório para o seu computador. Você pode fazer isso com o coman
 ```bash
 
 
-git clone https://github.com/seu-usuario/repositorio.git
+[git clone https://github.com/seu-usuario/repositorio.git](https://github.com/Enzo-Alvess/Teste-T-cnico-MODAL.git)
 
 ```
 
