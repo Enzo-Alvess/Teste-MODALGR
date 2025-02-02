@@ -28,3 +28,26 @@ Teste Técnico – Análise de Testes e Redação MODALGR
 - Confirmação de senha não correspondente
 - Validar mensagem de erro no cadastro
 - Validar mensagem de cadastro com sucesso
+
+## CDesafio 2
+
+# Cálculo de Multa para Livro Atrasado
+
+Este repositório contém um exemplo simples de como calcular a multa de um livro atrasado com base no valor da multa por dia e no número de dias de atraso.
+
+## Como Executar o Código
+
+Siga os passos abaixo para rodar o código no seu ambiente local:
+
+### Passo 1: Instalar o Node.js
+
+Se você ainda não tem o Node.js instalado, [baixe e instale o Node.js](https://nodejs.org/).
+
+### Passo 2: Clonar o Repositório
+
+Clone este repositório para o seu computador. Você pode fazer isso com o comando Git:
+
+```bash
+
+
+git clone https://github.com/seu-usuario/repositorio.git
