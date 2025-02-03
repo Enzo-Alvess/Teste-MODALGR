@@ -29,9 +29,7 @@ Teste Técnico – Análise de Testes e Redação MODALGR
 - Validar mensagem de erro no cadastro
 - Validar mensagem de cadastro com sucesso
 
-## Desafio 2
-
-# Cálculo de Multa para Livro Atrasado
+## Desafio 2 - Multa
 
 Este repositório contém um exemplo simples de como calcular a multa de um livro atrasado com base no valor da multa por dia e no número de dias de atraso.
 
@@ -65,7 +63,7 @@ node Multa.js
 
 ```
 
-Para os outros desafios apenas mude o nome dos arquivos
+Para os outros desafios apenas mude apenas o nome dos arquivos
 
 ## Desafio 3 - frase
 
