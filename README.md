@@ -29,9 +29,7 @@ Teste Técnico – Análise de Testes e Redação MODALGR
 - Validar mensagem de erro no cadastro
 - Validar mensagem de cadastro com sucesso
 
-## Desafio 2 - Multa
-
-Este repositório contém um exemplo simples de como calcular a multa de um livro atrasado com base no valor da multa por dia e no número de dias de atraso.
+# Desafio 2 - Multa
 
 ## Etapas necessarias
 
